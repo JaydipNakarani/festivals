@@ -17,7 +17,15 @@
       { "name": "Gudi Padwa", "religion": "Hindu", "date": "2025-04-01", "image": "gudi_padwa.png" },
       { "name": "Eid al-Fitr", "religion": "Muslim", "date": "2025-04-01", "image": "eid.png" },
       { "name": "Ram Navami", "religion": "Hindu", "date": "2025-04-06", "image": "ram_navami.png" },
-      { "name": "Mahavir Jayanti", "religion": "Jain", "date": "2025-04-10", "image": "mahavir_jayanti.png" }
+      { "name": "Mahavir Jayanti", "religion": "Jain", "date": "2025-04-10", "image": "mahavir_jayanti.png" },
+      {
+      "name": "Hanuman Jayanti",
+      "religion": "Hindu",
+      "date": "2025-04-23",
+        "religion": "National",
+      "image": "hanuman_jayanti.png"
+    },
+      { "name": "Good Friday", "date": "2025-04-18", "image": "good_friday.png" }
     ],
     "May": [
       { "name": "Buddha Purnima", "religion": "Buddhist", "date": "2025-05-12", "image": "buddha_purnima.png" }
@@ -30,9 +38,23 @@
       { "name": "Guru Purnima", "religion": "Hindu", "date": "2025-07-10", "image": "guru_purnima.png" }
     ],
     "August": [
+         {
+      "name": "Raksha Bandhan",
+      "date": "2025-08-09",
+            "religion": "Hindu",
+      "image": "raksha_bandhan.png"
+    },
       { "name": "Independence Day", "religion": "National", "date": "2025-08-15", "image": "independence_day.png" },
       { "name": "Janmashtami", "religion": "Hindu", "date": "2025-08-16", "image": "janmashtami.png" }
     ],
+     "September": [
+    {
+      "name": "Ganesh Chaturthi",
+      "date": "2025-09-01",
+      "religion": "Hindu",
+      "image": "ganesh_chaturthi.png"
+    }
+  ],
     "October": [
       { "name": "Gandhi Jayanti", "religion": "National", "date": "2025-10-02", "image": "gandhi_jayanti.png" },
       { "name": "Navratri Begins", "religion": "Hindu", "date": "2025-10-02", "image": "navratri.png" },
@@ -40,7 +62,13 @@
     ],
     "November": [
       { "name": "Diwali", "religion": "Hindu", "date": "2025-11-01", "image": "diwali.png" },
-      { "name": "Guru Nanak Jayanti", "religion": "Sikh", "date": "2025-11-05", "image": "guru_nanak_jayanti.png" }
+      { "name": "Guru Nanak Jayanti", "religion": "Sikh", "date": "2025-11-05", "image": "guru_nanak_jayanti.png" },
+        {
+      "name": "Bhai Dooj",
+      "date": "2025-11-03",
+      "image": "bhai_dooj.png",
+          "religion": "Hindu"
+    }
     ],
     "December": [
       { "name": "Christmas", "religion": "Christian", "date": "2025-12-25", "image": "christmas.png" }
@@ -50,42 +78,70 @@
   "2026": {
     "January": [
       { "name": "New Year", "religion": "Common", "date": "2026-01-01", "image": "new_year.png" },
-      { "name": "Makar Sankranti", "religion": "Hindu", "date": "2026-01-14", "image": "makar_sankranti.png" },
+      { "name": "Hazarat Ali’s Birthday", "religion": "Common", "date": "2026-01-02", "image": "new_year.png" },
+        { "name": "Lohri", "religion": "Hindu", "date": "2026-01-13", "image": "lohri.png" },
+      { "name": "Makar Sankranti, Pongal, Uttarayan", "religion": "Hindu", "date": "2026-01-14", "image": "makar_sankranti.png" },
+      { "name": "Vasant Panchami, Subhas Chandra Bose Jayanti", "religion": "Hindu", "date": "2026-01-23", "image": "vasant_panchami.png" },
       { "name": "Republic Day", "religion": "National", "date": "2026-01-26", "image": "republic_day.png" }
     ],
     "February": [
-      { "name": "Vasant Panchami", "religion": "Hindu", "date": "2026-01-23", "image": "vasant_panchami.png" },
-      { "name": "Maha Shivratri", "religion": "Hindu", "date": "2026-02-15", "image": "maha_shivratri.png" }
+{ "name": "Dayananda Saraswati Jayanti", "religion": "Hindu", "date": "2026-02-12", "image": "maha_shivratri.png" },
+      { "name": "Maha Shivratri", "religion": "Hindu", "date": "2026-02-15", "image": "maha_shivratri.png" },
+      { "name": "Chatrapati Shivaji Jayanti", "religion": "Hindu", "date": "2026-02-19", "image": "maha_shivratri.png" },
+           { "name": "Ramadan Begins", "religion": "Muslim", "date": "2026-02-20", "image": "ramadan.png" }
     ],
     "March": [
-      { "name": "Ramadan Begins", "religion": "Muslim", "date": "2026-02-20", "image": "ramadan.png" },
-      { "name": "Holi", "religion": "Hindu", "date": "2026-03-04", "image": "holi.png" }
+      { "name": "Holika Dahan", "religion": "Hindu", "date": "2026-03-03", "image": "holi.png" },
+      { "name": "Holi", "religion": "Hindu", "date": "2026-03-04", "image": "holi.png" },
+      { "name": "Chaitra Navratri, Ugadi, Gudi Padwa", "religion": "Hindu", "date": "2026-03-19", "image": "holi.png" },
+      { "name": "Cheti Chand", "religion": "Hindu", "date": "2026-03-20", "image": "holi.png" },
+      { "name": "Eid al-Fitr", "religion": "Muslim", "date": "2026-03-19", "image": "eid.png" },
+      { "name": "Ram Navami", "religion": "Hindu", "date": "2026-03-26", "image": "holi.png" },
+      { "name": "Mahavir Jayanti", "religion": "Jain", "date": "2026-03-31", "image": "mahavir_jayanti.png" }
     ],
     "April": [
-      { "name": "Gudi Padwa", "religion": "Hindu", "date": "2026-03-20", "image": "gudi_padwa.png" },
-      { "name": "Eid al-Fitr", "religion": "Muslim", "date": "2026-03-21", "image": "eid.png" },
-      { "name": "Ram Navami", "religion": "Hindu", "date": "2026-03-26", "image": "ram_navami.png" },
-      { "name": "Mahavir Jayanti", "religion": "Jain", "date": "2026-03-29", "image": "mahavir_jayanti.png" }
+      { "name": "Good Friday", "religion": "Hindu", "date": "2026-04-03", "image": "gudi_padwa.png" },
+      { "name": "Ambedkar Jayanti, Vaisakhadi / Bahag Bihu", "religion": "Hindu", "date": "2026-04-14", "image": "gudi_padwa.png" }
     ],
     "May": [
-      { "name": "Buddha Purnima", "religion": "Buddhist", "date": "2026-05-01", "image": "buddha_purnima.png" }
-    ],
-    "June": [
+      { "name": "Buddha Purnima", "religion": "Buddhist", "date": "2026-05-01", "image": "buddha_purnima.png" },
+      { "name": "Rabindranath Tagore’s Birthday", "religion": "Buddhist", "date": "2026-05-09", "image": "buddha_purnima.png" },
       { "name": "Bakrid (Eid al-Adha)", "religion": "Muslim", "date": "2026-05-27", "image": "bakrid.png" }
     ],
+    "June": [
+      { "name": "Muharram", "religion": "Muslim", "date": "2026-06-26", "image": "bakrid.png" }
+    ],
     "July": [
-      { "name": "Muharram", "religion": "Muslim", "date": "2026-06-26", "image": "muharram.png" }
+      { "name": "Jagannath Rath Yatra", "religion": "Hindu", "date": "2026-07-16", "image": "muharram.png" },
+      { "name": "Ashadhi Ekadashi", "religion": "Hindu", "date": "2026-07-25", "image": "muharram.png" },
+      { "name": "Guru Purnima", "religion": "Hindu", "date": "2026-07-29", "image": "muharram.png" }
     ],
     "August": [
       { "name": "Independence Day", "religion": "National", "date": "2026-08-15", "image": "independence_day.png" },
-      { "name": "Janmashtami", "religion": "Hindu", "date": "2026-09-04", "image": "janmashtami.png" }
+      { "name": "Parsi New Year", "religion": "National", "date": "2026-08-16", "image": "independence_day.png" },
+      { "name": "Nag Panchami", "religion": "Hindu", "date": "2026-08-17", "image": "independence_day.png" },
+      { "name": "Onam/Thiruvonam", "religion": "National", "date": "2026-08-26", "image": "independence_day.png" },
+      { "name": "Raksha Bandhan", "religion": "Hindu", "date": "2026-08-28", "image": "independence_day.png" }
     ],
+    "September": [
+      { "name": "Janmashtami", "religion": "Hindu", "date": "2026-09-04", "image": "janmashtami.png" },
+      { "name": "Ganesh Chaturthi", "religion": "Hindu", "date": "2026-09-14", "image": "janmashtami.png" },
+      { "name": "Anant Chaturdashi", "religion": "Hindu", "date": "2026-09-25", "image": "janmashtami.png" }
+    ]
     "October": [
       { "name": "Gandhi Jayanti", "religion": "National", "date": "2026-10-02", "image": "gandhi_jayanti.png" },
-      { "name": "Dussehra", "religion": "Hindu", "date": "2026-10-20", "image": "dussehra.png" }
+      { "name": "Sharad Navratri", "religion": "Hindu", "date": "2026-10-11", "image": "gandhi_jayanti.png" },
+      { "name": "Durga Maha Navami Puja, Durga Puja Ashtami", "religion": "Hindu", "date": "2026-10-20", "image": "gandhi_jayanti.png" },
+      { "name": "Dussehra", "religion": "Hindu", "date": "2026-10-20", "image": "dussehra.png" },
+      { "name": "Karva Chauth", "religion": "Hindu", "date": "2026-10-29", "image": "gandhi_jayanti.png" }
     ],
     "November": [
+      { "name": "Dhanteras", "religion": "Hindu", "date": "2026-11-06", "image": "diwali.png" },
       { "name": "Diwali", "religion": "Hindu", "date": "2026-11-08", "image": "diwali.png" },
+      { "name": "Govardhan Puja", "religion": "Hindu", "date": "2026-11-10", "image": "diwali.png" },
+      { "name": "Bhai Dooj", "religion": "Hindu", "date": "2026-11-11", "image": "diwali.png" },
+      { "name": "Children's Day", "religion": "Hindu", "date": "2026-11-14", "image": "diwali.png" },
+      { "name": "Chhath Puja", "religion": "Hindu", "date": "2026-11-15", "image": "diwali.png" },
       { "name": "Guru Nanak Jayanti", "religion": "Sikh", "date": "2026-11-24", "image": "guru_nanak_jayanti.png" }
     ],
     "December": [
